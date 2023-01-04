@@ -1,3 +1,7 @@
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3TZgJXiwbdbLG/giphy.gif">
+
+
+
 ## Hello, I'm Hrutika Badgeri 👋
 
 - 🔭 I’m currently working on Backend Development using NodeJS.
