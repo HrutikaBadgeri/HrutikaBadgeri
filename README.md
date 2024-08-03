@@ -5,7 +5,7 @@
 - I’m currently working in the data engineering domain, where I develop end-to-end data pipelines 
 - I love exploring the impact of data and I implement solutions using big data tools and machine learning.
 - I would love to collaborate on open-source projects
-- Network with me via Linkedin: [LinkedIn](https://www.linkedin.com/in/hrutika-badgeri-975180194/)
+- Network with me: [LinkedIn](https://www.linkedin.com/in/hrutika-badgeri-975180194/)
 
 <br>
 <br>
