@@ -2,12 +2,11 @@
 <h2 align="center">Hello, I'm Hrutika Badgeri 👋</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3TZgJXiwbdbLG/giphy.gif">
 
-- 🔭 I’m currently working on Backend Development using NodeJS.
-- 🌱 I’m experienced in working with Machine Learning using Python. 
-- 👯 I’m looking to collaborate on open source projects 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hrutika-badgeri-975180194/)
-- 😄 Pronouns: She/Her
-- ⚡ Hobbies: I like reading books and creating art 
+- I’m currently working in the data engineering domain, where I develop end-to-end data pipelines 
+- I love exploring the impact of data and I implement solutions using big data tools and machine learning.
+- I would love to collaborate on open-source projects
+- Network with me via Linkedin: [LinkedIn](https://www.linkedin.com/in/hrutika-badgeri-975180194/)
+
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
