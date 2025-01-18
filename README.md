@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=HrutikaBadgeri&color=green)
 <h2 align="center">Hello, I'm Hrutika Badgeri 👋</h2>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3TZgJXiwbdbLG/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3TZgJXiwbdbLG/giphy.gif"> -->
 
 - I’m currently working in the data engineering domain, where I develop end-to-end data pipelines.
 - I work with big data tools like HDFS, Pyspark, Apache Hive, Apache Iceberg etc.
